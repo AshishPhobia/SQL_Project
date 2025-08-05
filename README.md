@@ -1,12 +1,12 @@
-# 📊 Data Job Analysis 
+# Data Job Analysis 
 
-# 🚀 Introduction
+# Introduction
 This project delve into job market data to uncover insights about high-paying positions, in-demand skills, and optimal career paths. By leveraging PostgreSQL and crafting dynamic SQL queries,
 valuable conclusions are extracted to guide career decisions.
 
-🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
+ SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
-# 🔍 Background
+# Background
 
 In today's data-driven world, understanding job trends is paramount. This project seeks to address several key questions:
 
@@ -18,16 +18,16 @@ In today's data-driven world, understanding job trends is paramount. This projec
 4. Which skills are associated with higher salaries?
 5. What are the most optimal skills to learn?
 
-# 🛠 Tools I Used
+# Tools I Used
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 
-- **SQL 🛢️ :** The backbone of my analysis, allowing me to query the database and unearth critical insights.
-- **PostgreSQL 🐘 :** The chosen database management system, ideal for handling the job posting data.
-- **Visual Studio Code 💻 :** My go-to for database management and executing SQL queries.
-- **Git & GitHub 🔄 :** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
-- **CSV Dataset 📂 :** – Serves as the primary source of job market data.
+- **SQL :** The backbone of my analysis, allowing me to query the database and unearth critical insights.
+- **PostgreSQL :** The chosen database management system, ideal for handling the job posting data.
+- **Visual Studio Code :** My go-to for database management and executing SQL queries.
+- **Git & GitHub :** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+- **CSV Dataset :** – Serves as the primary source of job market data.
 
-# 📈 Analysis Overview
+# Analysis Overview
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
 
 ### 1. Top Paying Data Analyst Jobs
@@ -58,7 +58,8 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-![Top Paying Roles](assets\1_top_paying_roles.png)
+![Top Paying Roles](assets/1_top_paying_roles.png)
+
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 2. Skills for Top Paying Jobs
@@ -97,7 +98,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - **Tableau** is also highly sought after, with a bold count of 6.
 Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
-![Top Paying Skills](assets\2_top_paying_roles_skills.png)
+![Top Paying Skills](assets/2_top_paying_roles_skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 3. In-Demand Skills for Data Analysts
@@ -221,15 +222,15 @@ Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 - **Business Intelligence and Visualization Tools:** Tableau and Looker, with demand counts of 230 and 49 respectively, and average salaries around $99,288 and $103,795, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
 - **Database Technologies:** The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.
 
-# 📚 Key Learnings
+# Key Learnings
 
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
 
-- **🧩 Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
-- **📊 Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
-- **💡 Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
+- **Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
+- **Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
+- **Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
 
-# 🏁 Conclusions
+# Conclusions
 
 ### Insights
 From the analysis, several general insights emerged:
