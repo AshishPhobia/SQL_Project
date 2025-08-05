@@ -6,6 +6,9 @@ valuable conclusions are extracted to guide career decisions.
 
  SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
+# Dataset
+The dataset, sourced from **Luke Barousse’s SQL course**, contains job titles, salaries, locations, and in-demand skills in the data field. This project uses SQL queries to analyze skill demand, salary trends, and their relationship in the data analytics domain.
+
 # Background
 
 In today's data-driven world, understanding job trends is paramount. This project seeks to address several key questions:
