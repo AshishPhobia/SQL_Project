@@ -1,4 +1,4 @@
-# Data Job Analysis 
+# Data Jobs Analysis 
 
 # Introduction
 This project delve into job market data to uncover insights about high-paying positions, in-demand skills, and optimal career paths. By leveraging PostgreSQL and crafting dynamic SQL queries,
